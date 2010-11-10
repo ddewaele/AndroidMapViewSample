@@ -5,7 +5,6 @@ import java.util.List;
 
 import android.app.LocalActivityManager;
 import android.content.Context;
-import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.view.View;
